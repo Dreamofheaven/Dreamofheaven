@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eun-jeong%Park&fontSize=90)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=EJ&show_icons=true&theme=radical)
