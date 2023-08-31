@@ -29,6 +29,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white">
     <br>
 </div><br>
 </div>
