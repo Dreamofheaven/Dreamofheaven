@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eun-jeong%Park&fontSize=90)
 
-<div style="text-align:center;">
-    ## 🔨 Stack 🔨
+## 🔨 Stack 🔨
     <div style="display:flex; flex-direction:row;">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <img src="https://img.shields.io/badge/djnago-092E20?style=flat-square&logo=django&logoColor=white"> 
@@ -34,10 +33,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
         <img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white">
         <br>
-    </div><br>
     </div>
 
+![EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamofheaven&show_icons=true&theme=radical)
 
-    ![EJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreamofheaven&show_icons=true&theme=radical)
-
-</div>
