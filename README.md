@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 
+
+    
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eun-jeong%Park&fontSize=90)
 
-<div align="center">
-    
+
+
 ## 🔨 Stack 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
